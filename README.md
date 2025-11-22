@@ -39,6 +39,6 @@ Trend analysis charts for daily and monthly orders
 Best vs. worst performers comparison
 Revenue and order breakdown by pizza size and category
 
-Screenshots:
-1. https://github.com/radhikasonar21/Pizza-Sales-Dashboard-/blob/main/Pizza%20Sales%20Dashboard%20SS1.png
-2. https://github.com/radhikasonar21/Pizza-Sales-Dashboard-/blob/main/Pizza%20Sales%20Dashboard%20SS2.png
+Screenshots: 
+https://github.com/radhikasonar21/Pizza-Sales-Dashboard-/blob/main/Pizza%20Sales%20Dashboard%20SS1.png
+https://github.com/radhikasonar21/Pizza-Sales-Dashboard-/blob/main/Pizza%20Sales%20Dashboard%20SS2.png
