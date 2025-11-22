@@ -40,3 +40,6 @@ Best vs. worst performers comparison
 Revenue and order breakdown by pizza size and category
 
 Screenshots:
+1. https://github.com/radhikasonar21/Pizza-Sales-Dashboard-/blob/main/Pizza%20Sales%20Dashboard%20SS1.png
+2. 
+
