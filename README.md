@@ -41,4 +41,7 @@ Revenue and order breakdown by pizza size and category
 
 Screenshots: 
 Show what dashboard look like. - ![Alt text](https://github.com/radhikasonar21/Pizza-Sales-Dashboard-/blob/main/Pizza%20Sales%20Dashboard%20SS1.png)
+Example: ![Dashboard Preview].(https://github.com/radhikasonar21/Pizza-Sales-Dashboard-/blob/main/Pizza%20Sales%20Dashboard%20SS1.png)
+
+![Alt text](https://github.com/radhikasonar21/Pizza-Sales-Dashboard-/blob/main/Pizza%20Sales%20Dashboard%20SS2.png)
 Example: ![Dashboard Preview].(https://github.com/radhikasonar21/Pizza-Sales-Dashboard-/blob/main/Pizza%20Sales%20Dashboard%20SS2.png)
